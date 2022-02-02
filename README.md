@@ -4,7 +4,7 @@ Also, in this article, only the xgboost classifier is used ، But we used differ
 In this article, wordembedding glove is used in English language And we have used word embedding fasttext in Persian.
 In the final output, we have a 300-dimensional vector for each sentence. Which we gave these vectors as input to classifiers and clusters
 [digikala dataset](https://www.digikala.com/opendata/#section-4) 
-|classification method| accuracy      | 
+|method               | accuracy      | 
 | --------------------|:-------------:| 
 | SVM                 | 87%           |
 | CNN                 | 86%           |
